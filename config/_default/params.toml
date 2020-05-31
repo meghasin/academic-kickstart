@@ -100,7 +100,7 @@ address = {street = "2500 NW Monroe Ave", city = "Corvallis", region = "OR", pos
 coordinates = {latitude = "44.567386", longitude = "-123.278679"}
 
 # Directions for visitors to locate you.
-Office = "Kelley Engineering Center, 2nd floor, desk number: 2048-02"
+directions = "Kelley Engineering Center, 2nd floor, desk number 2048-02."
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -113,7 +113,7 @@ Office = "Kelley Engineering Center, 2nd floor, desk number: 2048-02"
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
 # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-#  ]
+# ]
 
 ############################
 ## Social
