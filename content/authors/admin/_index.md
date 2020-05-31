@@ -60,12 +60,12 @@ social:
   link: https://www.linkedin.com/in/sinhamegh/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/M_Sinha_s_Resume__2_pages_.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/M_Sinha_s_Resume__2_pages_.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sinham@oregonstate.edu"
+#email: "sinham@oregonstate.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -74,4 +74,4 @@ email: "sinham@oregonstate.edu"
 #- Visitors
 ---
 
-I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. I am currently working unser the supervision of Dr. Stephen Ramsey. My research focus is exploring Graphical Modeling, Causal Inference and its application in various data-driven areas.
+I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. I am currently working unser the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). My research focus is exploring Graphical Modeling, Causal Inference and its application in various data-driven areas.
