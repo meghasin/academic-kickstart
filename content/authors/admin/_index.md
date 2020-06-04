@@ -20,23 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. My research interest is Graphical Modeling, Causal Inference and its application to various data-driven areas.
 
-interests:
-- Artificial Intelligence
-- Machine Learning
-- Computational Biology
-- Data Science
-
-education:
-  courses:
-  - course: PhD in Computer Science (major) & Biological Data Science (minor)
-    institution: Oregon State University
-    year: 2016 - ongoing 
-  - course: M.Tech in Information Technology
-    institution: National Institute of Technology,Durgapur
-    year: 2013 - 2015
-  - course: B.Tech in Information Technology
-    institution: West Bengal University of Technology
-    year: 2008 - 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,3 +58,5 @@ social:
 ---
 
 I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. I am currently working unser the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). My research focus is exploring Graphical Modeling, Causal Inference and its application in various data-driven areas.
+
+Research Interests: *Causal Inference*, *Artificial Intelligence*, *Machine Learning*, *Computational Biology*, *Data Science*
