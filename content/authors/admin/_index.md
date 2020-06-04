@@ -57,6 +57,6 @@ social:
 #- Visitors
 ---
 
-I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. I am currently working unser the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). My research focus is exploring Graphical Modeling, Causal Inference and its application in various data-driven areas.
+I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. I am currently working under the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). My research focus is exploring Graphical Modeling, Causal Inference and its application in various data-driven areas.
 
 Research Interests: *Causal Inference*, *Artificial Intelligence*, *Machine Learning*, *Computational Biology*, *Data Science*
