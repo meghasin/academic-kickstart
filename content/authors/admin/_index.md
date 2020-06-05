@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Meghamala Sinha
+title: 
 
 # Username (this should match the folder name)
 authors:
@@ -57,6 +57,6 @@ social:
 #- Visitors
 ---
 
-I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. I am currently working under the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). My research focus is exploring Graphical Modeling, Causal Inference and its application in various data-driven areas.
+I am a Ph.D. candidate at Oregon State University working under the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). I am interested in exploring Graphical Models, Causal Inference and its application in various data-driven areas.
 
 Research Interests: *Causal Inference*, *Artificial Intelligence*, *Machine Learning*, *Computational Biology*, *Data Science*
