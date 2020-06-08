@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = "Invited as a Speaker for tech-talks track"
 
 [[item]]
+  organization = "AAAI Spring Symposium, Stanford University"
+  organization_url = "https://why19.causalai.net/"
+  title = "Pooling vs Voting: An Empirical Study of Learning Causal Structures"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-25" 
+  date_end = ""
+  description = """[Oral presentation](https://docs.google.com/presentation/d/14nZpa6UGkwLv4O9oEA6YmpQdMBLL9wpXkXn8tw-QZcQ/edit?usp=sharing)"""
+
+[[item]]
   organization = "COE Graduate Research Showcase, OSU"
   organization_url = "https://engineering.oregonstate.edu/2019-graduate-research-showcase#:~:text=The%20College%20of%20Engineering%20at,the%20frontiers%20of%20engineering%20knowledge."
   title = "Causal Learning using Intervention and Experiments"
@@ -36,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-02-08"
   date_end = ""
-  description = "Poster & Lightning talk"
+  description = """[Poster](files/graduate_research_showcase_48x36_eecs_cs-3.pdf)"""
   
 [[item]]
   organization = "CGRB Spring Conference, OSU"

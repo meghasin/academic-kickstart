@@ -59,4 +59,6 @@ social:
 
 I am a Ph.D. candidate at Oregon State University working under the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). I am interested in exploring Graphical Models, Causal Inference and its application in various data-driven areas.
 
+
+
 Research Interests: *Causal Inference*, *Artificial Intelligence*, *Machine Learning*, *Computational Biology*, *Data Science*
