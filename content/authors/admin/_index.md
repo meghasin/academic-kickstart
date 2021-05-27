@@ -18,7 +18,7 @@ organizations:
   url: "https://oregonstate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. My research interest is Graphical Modeling, Causal Inference and its application to various data-driven areas.
+bio: I am a Ph.D. candidate at Oregon State University, specializing in Machine Learning, Data Science and Computational Biology. My research interest consists of Graphical Modeling, Causal Inference and their application to various data-driven areas.
 
 
 # Social/Academic Networking
