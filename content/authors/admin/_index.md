@@ -57,7 +57,7 @@ social:
 #- Visitors
 ---
 
-I am a Ph.D. candidate at Oregon State University working under the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). I am interested in exploring Graphical Models, Causal Inference and their application in various data-driven areas.
+I am a Ph.D. candidate at Oregon State University majoring in Computer Science and minoring in Biological Data Science. I am working under the supervision of [Dr. Stephen Ramsey](https://lab.saramsey.org/). I am interested in exploring Graphical Models, Causal Inference and their application in various data-driven areas like Artificial Intelligence, Computational Biology, Intelligent Systems and Cognition. My PhD work centers around the use of Causality to differentiate true cause-effect relationships from mere associations to build a more robust and reliable inference model. 
 
 
 
