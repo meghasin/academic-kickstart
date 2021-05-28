@@ -17,6 +17,19 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "Oregon State University"
+  company_url = "https://oregonstate.edu/"
+  location = "Corvallis, Oregon"
+  date_start = "2020-05-12"
+  date_end = ""
+  description = """
+  * Proposed method to improve causal structure learning by using Knowledge Graphs as expert prior information.
+  * Working with NCATS-Translator team to enhance the development of the Integrated Clinical and Environmental Exposures Service (ICEES).
+  """
+
 [[experience]]
   title = "Graduate Teaching Assistant"
   company = "Oregon State University"
